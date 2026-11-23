@@ -224,3 +224,11 @@ __marimo__/
 
 .venv/
 data/raw/
+
+.DS_Store
+.venv/
+data/raw/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
