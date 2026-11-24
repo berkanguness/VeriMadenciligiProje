@@ -4,7 +4,7 @@ BIM448 dersi proje ödevi. Kural tabanlı (VADER) ve derin öğrenme tabanlı (B
 duygu analizi yöntemleri, İngilizce ve Türkçe metinler üzerinde Pozitif / Negatif / Nötr
 sınıfları için karşılaştırılmıştır. LLM tabanlı yöntem ekip arkadaşı tarafından ayrıca uygulanmıştır.
 
-**Ekip:** [Üye 1], [Üye 2], [Üye 3]
+**Ekip:** Aylin Naz AVCI, Berkan GÜNEŞ
 
 ## Veri Setleri
 
