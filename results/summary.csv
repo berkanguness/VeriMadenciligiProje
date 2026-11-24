@@ -1,6 +1,8 @@
 yontem,Pozitif_hata,Negatif_hata,Notr_hata,Toplam_hata,Accuracy,Macro_F1
 bert_en,107,233,346,686,0.771,0.769
 bert_tr,20,153,0,173,0.942,0.942
+llm_en,137,102,280,519,0.827,0.825
+llm_tr,94,99,66,259,0.914,0.914
 vader_en,90,567,690,1347,0.551,0.528
 vader_tr,165,483,395,1043,0.652,0.647
 vader_tr_ceviri_yok,909,973,7,1889,0.37,0.244
